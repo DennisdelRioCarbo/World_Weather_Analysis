@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+This repository is for making changes to the *PlanMyTrip* app based on recommendations by Beta testing. We will be adding the weather description and Beta testers will use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route will be created between the four cities as well as a marker layer map with a pop-up marker for each city on the itinerary.
